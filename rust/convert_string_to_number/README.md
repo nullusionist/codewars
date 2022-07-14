@@ -1,4 +1,4 @@
-# Convert a String to a Number
+# Convert a String to a Number (Rust)
 
 Note: This kata is inspired by [Convert a Number to a String!](http://www.codewars.com/kata/convert-a-number-to-a-string/). Try that one too.
 
